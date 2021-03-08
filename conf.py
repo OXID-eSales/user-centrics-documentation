@@ -139,7 +139,7 @@ html_context = {
     'display_github': True,
     # Set the following variables to generate the resulting github URL for each page.
     'github_user': 'OXID-eSales',
-    'github_repo': 'cookie-management-documentation',
+    'github_repo': 'usercentrics-documentation',
     'github_version': 'b-1.1-de/'
 }
 
