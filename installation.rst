@@ -22,7 +22,6 @@ Das Modul OXID Cookie Management muss aus dem Repository heruntergeladen und ins
 .. code:: bash
 
    composer require oxid-professional-services/usercentrics
-   vendor/bin/oe-console oe:module:install source/modules/oxps/usercentrics
 
 |schritt| Modul aktivieren
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
