@@ -1,7 +1,7 @@
 Einführung
 ==========
 
-Das Modul **OXID Cookie Management powered by usercentrics** stellt Funktionen bereit, um die im OXID eShop verwendeten Web-Tracking-Technologien mit den rechtlichen Anforderungen in Einklang zu bringen. Das wird durch die Integration der Content Management Platform (CMS) vom Marktführer Usercentrics umgesetzt. 
+Das Modul **OXID Cookie Management powered by usercentrics** stellt Funktionen bereit, um die im OXID eShop verwendeten Web-Tracking-Technologien mit den rechtlichen Anforderungen in Einklang zu bringen. Das wird durch die Integration der Content Management Platform (CMS) von Usercentrics umgesetzt.
 
 .. image:: media/screenshots/oxdajk01.png
    :alt: econda Logo
