@@ -10,7 +10,7 @@ Moduldokumentation
    konfiguration
    funktionsbeschreibung
    integration
-   Changelog (GitHub) ➜ <https://github.com/OXID-eSales/usercentrics/blob/v1.1.1/CHANGELOG.md>
+   Changelog (GitHub) ➜ <https://github.com/OXID-eSales/usercentrics/blob/v1.1.2/CHANGELOG.md>
 
 .. image:: media/icons/home.png
     :width: 0 px
