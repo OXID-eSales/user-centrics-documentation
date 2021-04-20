@@ -1,7 +1,7 @@
 Einführung
 ==========
 
-Das Modul **OXID Cookie Management powered by usercentrics** stellt Funktionen bereit, um die im OXID eShop verwendeten Web-Tracking-Technologien mit den rechtlichen Anforderungen in Einklang zu bringen. Das wird durch die Integration der Content Management Platform (CMS) von Usercentrics umgesetzt.
+Das Modul **OXID Cookie Management powered by usercentrics** stellt Funktionen bereit, um die im OXID eShop verwendeten Web-Tracking-Technologien mit den rechtlichen Anforderungen in Einklang zu bringen. Das wird durch die Integration der Consent Management Platform (CMS) von Usercentrics umgesetzt.
 
 .. image:: media/screenshots/oxdajk01.png
    :alt: econda Logo
@@ -9,7 +9,7 @@ Das Modul **OXID Cookie Management powered by usercentrics** stellt Funktionen b
    :height: 42
    :width: 150
 
-Das Modul OXID Cookie Management und die integrierte Usercentrics Content Management Platform ermöglichen dem Shopbetreiber, die Zustimmung oder Ablehnung von Web-Tracking-Technologien seiner Kunden zu erheben, zu verwalten und zu dokumentieren. Die jeweiligen Technologien werden erst nach ausdrücklicher Zustimmung des Benutzers eingesetzt. Dabei werden so genannte Cookies verwendet, die Informationen zum Verhalten des Benutzers im Shop speichern, um ihm beispielsweise beim nächsten Besuch gezielt Produkte vorzuschlagen.
+Das Modul OXID Cookie Management und die integrierte Usercentrics Consent Management Platform ermöglichen dem Shopbetreiber, die Zustimmung oder Ablehnung von Web-Tracking-Technologien seiner Kunden zu erheben, zu verwalten und zu dokumentieren. Die jeweiligen Technologien werden erst nach ausdrücklicher Zustimmung des Benutzers eingesetzt. Dabei werden so genannte Cookies verwendet, die Informationen zum Verhalten des Benutzers im Shop speichern, um ihm beispielsweise beim nächsten Besuch gezielt Produkte vorzuschlagen.
 
 Voraussetzung für den Einsatz des Moduls im OXID eShop ist, dass sich der Shopbetreiber bei Usercentrics registriert und eines für den Shop passendes Paket bucht. Verwenden Sie dafür den Link https://usercentrics.com/de/preise/?partnerid=16967#business-paket.
 
@@ -20,7 +20,7 @@ Die rechtlichen Grundlagen sind also komplex und es empfiehlt sich, sie nach gr�
 Die Funktionen des Moduls im Überblick
 --------------------------------------
 * Umsetzung der rechtlichen Anforderungen bei der Verwendung von Web-Tracking-Technologien im OXID eShop
-* Integration der Content Management Platform (CMP) von Usercentrics im OXID eShop
+* Integration der Consent Management Platform (CMP) von Usercentrics im OXID eShop
 * Anzeige eines Banners beim erstem Aufruf des Shops, welches die Privatsphäre-Einstellungen des Benutzers abfragt
 * Ausführung von Web-Tracking-Technologien nur mit ausdrücklicher Zustimmung das Benutzers
 * Ausführung nur von Web-Tracking-Technologien, die im CMP konfiguriert wurden

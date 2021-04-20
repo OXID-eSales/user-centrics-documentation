@@ -12,13 +12,13 @@ Die Funktionen des Moduls lassen sich in dessen Einstellungen konfigurieren. Geh
 
 Usercentrics Integration
 ^^^^^^^^^^^^^^^^^^^^^^^^
-Die wichtigste Moduleinstellung ist die Usercentrics Script ID. Um Ihren OXID eShop mit der Usercentrics Content Management Platform (CMP) zu verbinden, tragen Sie hier bitte den Wert ein, den Sie im Usercentrics Admin Interface finden. Er wird Ihnen nach dem Login als Setting-ID zu Ihrer Domain angezeigt.  
+Die wichtigste Moduleinstellung ist die Usercentrics Script ID. Um Ihren OXID eShop mit der Usercentrics Consent Management Platform (CMP) zu verbinden, tragen Sie hier bitte den Wert ein, den Sie im Usercentrics Admin Interface finden. Er wird Ihnen nach dem Login als Setting-ID zu Ihrer Domain angezeigt.
 
 Erweiterte Einstellungen
 ^^^^^^^^^^^^^^^^^^^^^^^^
 Die Einstellungen in diesem Abschnitt sollten in der Regel nicht geändert werden. Der Smart Data Protector ist ein Dienst, der Technologien und Dienste von Drittanbietern überwacht. Diese werden nur ausgeführt, wenn der Benutzer diesen in den Datenschutzeinstellungen ausdrücklich zugestimmt hat. Wird im OXID eShop eine Seite aufgerufen, die eine solche Technologie verwendet und der Benutzer hat diese nicht akzeptiert, wird dessen Zustimmung erneut abgefragt. Erst nachdem der Benutzer zugestimmt hat, wird der entsprechende Dienst ausgeführt. Smart Data Protector ist standardmäßig aktiv.
 
-Bei Usercentrics Modus und Version ist CMP Version 2 als Standard ausgewählt. Damit arbeitet das Modul mit der aktuellen Version der Content Management Platform. Diese unterscheidet sich von der Vorgängerversion in Funktion, Layout und Browserunterstützung. Detaillierte Informationen zu den weiteren Modi und Versionen entnehmen Sie bitte der `Usercentrics Dokumentation <https://docs.usercentrics.com>`_. 
+Bei Usercentrics Modus und Version ist CMP Version 2 als Standard ausgewählt. Damit arbeitet das Modul mit der aktuellen Version der Consent Management Platform. Diese unterscheidet sich von der Vorgängerversion in Funktion, Layout und Browserunterstützung. Detaillierte Informationen zu den weiteren Modi und Versionen entnehmen Sie bitte der `Usercentrics Dokumentation <https://docs.usercentrics.com>`_.
 
 Kann Ihr Shop aufgrund von speziellen Anpassungen nicht auf die Usercentrics Integration des Moduls zurückgreifen, muss das Code Snippet (JavaScript Tag) eigenständig implementiert werden. In diesem Fall wählen Sie :guilabel:`Usercentrics Script selbst einbinden` aus der Dropdownliste.
 
