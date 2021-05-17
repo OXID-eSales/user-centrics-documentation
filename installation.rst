@@ -17,7 +17,7 @@ Neu-Installation
 
 |schritt| Modul installieren
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Das Modul OXID Cookie Management muss aus dem Repository heruntergeladen und installiert werden. Dazu werden per Konsole folgende Kommandos im Hauptverzeichnis des Shops ausgeführt:
+Das Modul OXID Cookie Management muss aus dem Repository heruntergeladen und installiert werden. Dazu wird per Konsole folgendes Kommando im Hauptverzeichnis des Shops ausgeführt:
 
 .. code:: bash
 
