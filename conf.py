@@ -133,6 +133,12 @@ html_theme_path = ['_themes']
 
 html_context = {
     'current_version': '1.1',
+    'versions':
+         [('1.1', 'https://docs.oxid-esales.com/modules/usercentrics/de/1.1/'),
+          ('1.2', 'https://docs.oxid-esales.com/modules/usercentrics/de/1.2/')],
+#   'languages':
+#         [('DE', 'https://docs.oxid-esales.com/modules/usercentrics/de/1.2/'),
+#          ('EN', 'https://docs.oxid-esales.com/modules/usercentrics/en/1.2/')],
     'css_files': [('_static/oxid.css')],
     'theme_logo_only': True,
     'show_sphinx': False,
