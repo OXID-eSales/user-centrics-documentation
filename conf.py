@@ -261,6 +261,14 @@ rst_prolog = """
    :class: no-shadow
 
 .. role:: db
+.. role:: productname
+.. role:: technicalname
+
+.. |procedure| replace:: **Procedure**
+.. |prerequisites| replace:: **Prerequisites**
+.. |result| replace:: **Result**
+.. |background| replace:: **Background**
+.. |example| replace:: **Example**
 
 .. |br| raw:: html
 
