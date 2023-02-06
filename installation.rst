@@ -13,8 +13,6 @@ You have OXID eShop version 7.0 or higher.
 
 |procedure|
 
-.. todo: #tbd: Verify process.
-
 1. Download the :productname:`OXID Cookie Management` module from the repository and install it.
 
    To do so, in the main store directory (where the :file:`composer.json` file is located), run the following command:
