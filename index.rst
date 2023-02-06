@@ -6,7 +6,6 @@ Moduldokumentation
    :caption: OXID Cookie Management
 
    einfuehrung
-   installation
    konfiguration
    funktionsbeschreibung
    integration
