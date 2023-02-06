@@ -1,6 +1,13 @@
 Konfiguration
 =============
 
+Installation
+------------
+
+**OXID Cookie Management powered by usercentrics** 2.0 wird mit OXID eShop 7.0 standardmäßig mit ausgeliefert.
+
+Sie müssen das Modul nicht installieren, sondern können direkt mit dem Konfigurieren loslegen.
+
 Konfiguration des Moduls
 ------------------------
 Die Funktionen des Moduls lassen sich in dessen Einstellungen konfigurieren. Gehen Sie dafür im Administrationsbereich zu :menuselection:`Erweiterungen --> Module` und wählen Sie das  Modul OXID Cookie Management aus der Liste der Module. Sie finden die Einstellungen auf der Registerkarte :guilabel:`Einstell.`
@@ -26,6 +33,7 @@ Kann Ihr Shop aufgrund von speziellen Anpassungen nicht auf die Usercentrics Int
 
 Konfiguration im Usercentrics Admin Interface
 ---------------------------------------------
+
 Um die Funktionen des Moduls nutzen zu können, müssen Sie sich bei Usercentrics registrieren und eines für Ihren OXID eShop passendes Paket erwerben. Verwenden Sie dafür den Link https://usercentrics.com/de/preise/?partnerid=16967#business-paket.
 
 Das Usercentrics Admin Interface, welches über den Link https://admin.usercentrics.com aufgerufen wird, hat eine intuitiv bedienbare Benutzeroberfläche. 
