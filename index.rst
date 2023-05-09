@@ -1,8 +1,6 @@
 Moduldokumentation
 ==================
 
-.. todo: #HR/#tbd: Changelog (GitHub) ➜ <https://github.com/OXID-eSales/usercentrics/blob/v2.0.0/CHANGELOG.md> verif.
-
 .. toctree::
    :maxdepth: 1
    :caption: OXID Cookie Management

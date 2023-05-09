@@ -1,7 +1,11 @@
 Benutzerdefinierte Dienste integrieren
 ======================================
 
-Usercentrics verfügt über eine Datenbank mit vordefinierten Datenverarbeitungsdiensten. Diese enthalten eine kurze Beschreibung des Dienstes sowie weitere gesetzlich vorgeschriebene Informationen. Wird in Ihrem Shop ein Dienst verwendet, der nicht in dieser Datenbank vorhanden ist, muss dieser im Shop konfiguriert und im Usercentrics Admin Interface als benutzerdefinierter Dienst angelegt werden. 
+Usercentrics hat eine Datenbank mit vordefinierten Datenverarbeitungsdiensten.
+
+Diese enthalten eine kurze Beschreibung des Dienstes sowie weitere gesetzlich vorgeschriebene Informationen.
+
+Wenn Sie in Ihrem OXID eShop einen Dienst verwenden, der nicht in dieser Datenbank vorhanden ist, konfigurieren Sie den Dienst in Ihrem OXID eShop und legen ihn im Usercentrics Admin Interface als benutzerdefinierten Dienst an.
 
 Konfiguration des Dienstes im OXID eShop
 ----------------------------------------
@@ -26,7 +30,7 @@ Ein benutzerdefinierter Dienst erfordert eine Datei :file:`usercentrics.yaml`, w
 
    [{oxscript add="alert('This is a custom javascript service.')" }]
 
-Um den Hash für ein Snippet zu erhalten, fügen Sie das Snippet einer Seite des Shops hinzu und rufen Sie diese im Browser auf. Über die Tools für Web-Entwickler, können Sie jetzt auf den Wert des data-oxid-Attributes zugreifen.
+Um den Hash für ein Snippet zu erhalten, fügen Sie das Snippet einer Seite des Shops hinzu und rufen Sie diese im Browser auf. Über die Tools für Web-Entwickler können Sie jetzt auf den Wert des data-oxid-Attributs zugreifen.
 
 .. image:: media/screenshots/oxdajo01.png
    :alt: Startseite des OXID eShop im Inspektor 
@@ -44,7 +48,11 @@ Um den Hash für ein Snippet zu erhalten, fügen Sie das Snippet einer Seite des
 
 Anlegen des Dienstes im UserCentrics Admin Interface
 ----------------------------------------------------
-Der Dienstes wird nun im UserCentrics Admin Interface definiert. Legen Sie den Dienst dort im Abschnitt :guilabel:`Service Settings` unter :guilabel:`Data Processing Services` an. Verwenden Sie dafür :guilabel:`Create Custom Service`. 
+Der Dienst wird nun im UserCentrics Admin Interface definiert.
+
+Legen Sie den Dienst dort im Abschnitt :guilabel:`Service Settings` unter :guilabel:`Data Processing Services` an.
+
+Verwenden Sie dafür :guilabel:`Create Custom Service`.
 
 .. image:: media/screenshots/oxdajo02.png
    :alt: Datenschutzeinstellungen, CMP Version 2 
