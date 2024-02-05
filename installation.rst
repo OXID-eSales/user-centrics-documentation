@@ -8,7 +8,7 @@ Dieses Dokument beschreibt die Installation des Moduls OXID Cookie Management f�
 
 Systemvoraussetzungen
 ---------------------
-Für das Modul OXID Cookie Management sind keine speziellen Systemvoraussetzungen notwendig. Es gelten die des OXID eShop Version 6.2 und höher: https://docs.oxid-esales.com/eshop/de/6.2/installation/neu-installation/server-und-systemvoraussetzungen.html.
+Für das Modul OXID Cookie Management sind keine speziellen Systemvoraussetzungen notwendig. Es gelten die des OXID eShop Version 6.2.x: https://docs.oxid-esales.com/eshop/de/6.2/installation/neu-installation/server-und-systemvoraussetzungen.html.
 
 --------------------------------------------------
 
