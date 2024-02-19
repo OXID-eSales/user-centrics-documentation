@@ -9,7 +9,7 @@ However, depending on your OXID eShop installation, you can install the module m
 
 |prerequisites|
 
-You have OXID eShop version 7.0 or higher.
+You have OXID eShop version 7.x.
 
 |procedure|
 

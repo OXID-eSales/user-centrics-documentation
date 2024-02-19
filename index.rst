@@ -5,10 +5,10 @@ Moduldokumentation
    :maxdepth: 1
    :caption: OXID Cookie Management
 
-   einfuehrung
+   introduction
    installation
-   konfiguration
-   funktionsbeschreibung
+   configuration
+   functions
    integration
    Changelog (GitHub) ➜ <https://github.com/OXID-eSales/usercentrics/blob/v2.0.0/CHANGELOG.md>
 
