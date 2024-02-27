@@ -1,7 +1,7 @@
 Installation
 ============
 
-:productname:`OXID Cookie Management powered by usercentrics` 2.0 is shipped with OXID eShop 7.0 by default.
+:productname:`OXID Cookie Management powered by usercentrics` 2.0 is shipped with OXID eShop 7.x by default.
 
 So in a normal installation you don't need to install the module, you can start configuring it directly.
 
