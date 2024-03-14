@@ -65,7 +65,7 @@ author = 'OXID eSales AG'
 # built documents.
 #
 # The short X.Y version.
-version = '3.0.0'
+version = '3.0'
 # The full version, including alpha/beta/rc tags.
 release = '3.0.0'
 
@@ -136,7 +136,7 @@ html_context = {
     'versions':
          [('1.1', 'https://docs.oxid-esales.com/modules/usercentrics/en/1.1/'),
           ('1.2', 'https://docs.oxid-esales.com/modules/usercentrics/en/1.2/'),
-          ('2.0', 'https://docs.oxid-esales.com/modules/usercentrics/en/2.0/'),
+          ('F', 'https://docs.oxid-esales.com/modules/usercentrics/en/2.0/'),
           ('3.0', 'https://docs.oxid-esales.com/modules/usercentrics/en/3.0/')],
     'languages':
          [('EN', 'https://docs.oxid-esales.com/modules/usercentrics/en/3.0/'),
