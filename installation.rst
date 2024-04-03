@@ -1,42 +1,13 @@
 Installation
 ============
 
-.. todo: #HR: verifizieren: standardmäßig mit OXID eShop 7.x, 7.1?
-
-:productname:`OXID Cookie Management powered by usercentrics` 3.0 wird standardmäßig mit OXID eShop 7.1 ausgeliefert.
+:productname:`OXID Cookie Management powered by usercentrics` 3.0 wird standardmäßig mit OXID eShop 7.1 ausgeliefert und unterstützt nur Twig.
 
 Bei einer normalen Installation müssen Sie das Modul also nicht installieren, sondern können direkt mit dem Konfigurieren loslegen.
 
 Abhängig von Ihrer Installation des OXID eShops können Sie das Modul jedoch bei Bedarf manuell nachinstallieren.
 
-.. todo: #HR: folgt etwas aus den Änderungen:
-            Gibt es neue Funktionen
-            oder
-            reicht es, wie bisher auf index.html auf das Changelog zu verweisen?
-    ### Added
-    - ``Core\ViewConfig::getUsercentricsModuleSettings``
-    - ``Service\Integration\Pattern\*->scriptSource`` type definition
-    - ``Service/ModuleSettingsInterface::getSmartProtectorBlockingDisabledServices``
-    - Code style tools
-    ### Removed
-.. todo: #HR: folgt etwas daraus, dass Smarty nicht mehr unterstützt wird, weisen wir darauf hin?
-    - Smarty support
-    - ``Core\ViewConfig`` methods:
-      - ``getUsercentricsID``
-      - ``isSmartDataProtectorActive``
-      - ``isDevelopmentAutomaticConsentActive``
-      - ``getSmartDataProtectorDeactivateBlockingServices``
-    ### Changed
-    - Rename ``getSmartProtectorBlockingDisabledList`` to ``getSmartProtectorBlockingDisabledServices`` and change return
-    type to ``string[]`` for:
-      - ``Service/ModuleSettingsInterface``
-      - ``Service/ModuleSettings``
-    - Change ``Service/ModuleSettings::getStringSettingValue`` from protected to private
-
-
 |prerequisites|
-
-.. todo: #HR: verifizieren: OXID eShop 7.x, 7.1?
 
 Sie haben OXID eShop Version 7.1.
 
