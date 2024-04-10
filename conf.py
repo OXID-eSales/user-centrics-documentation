@@ -136,7 +136,8 @@ html_context = {
     'versions':
          [('1.1', 'https://docs.oxid-esales.com/modules/usercentrics/de/1.1/'),
           ('1.2', 'https://docs.oxid-esales.com/modules/usercentrics/de/1.2/'),
-          ('2.0', 'https://docs.oxid-esales.com/modules/usercentrics/de/2.0/')],
+          ('2.0', 'https://docs.oxid-esales.com/modules/usercentrics/de/2.0/'),
+          ('3.0', 'https://docs.oxid-esales.com/modules/usercentrics/de/3.0/')],
 #   'languages':
 #         [('DE', 'https://docs.oxid-esales.com/modules/usercentrics/de/2.0/'),
 #          ('EN', 'https://docs.oxid-esales.com/modules/usercentrics/en/2.0/')],
