@@ -1,7 +1,7 @@
 Installation
 ============
 
-:productname:`OXID Cookie Management powered by usercentrics` 3.0 wird standardmäßig mit OXID eShop 7.1 und 7.2 ausgeliefert und unterstützt nur Twig.
+:productname:`OXID Cookie Management powered by usercentrics` 3.0 wird standardmäßig mit OXID eShop Compilation 7.1 und 7.2 ausgeliefert und unterstützt nur Twig.
 
 Bei einer normalen Installation müssen Sie das Modul also nicht installieren, sondern können direkt mit dem Konfigurieren loslegen.
 
@@ -28,5 +28,7 @@ Sie haben OXID eShop Version 7.1 oder 7.2.
    c. Wählen Sie auf der Registerkarte :guilabel:`Stamm` des Moduls die Schaltfläche :guilabel:`Aktivieren`.
 
 3. Um temporäre Dateien zu löschen, löschen Sie aus dem Verzeichnis :file:`/tmp` des Shops alle Dateien und Ordner außer der Datei :file:`.htaccess`.
+
+.. todo:: Hinweis auf oe-console, module activation und clear cache
 
 .. Intern: oxdajl, Status:
